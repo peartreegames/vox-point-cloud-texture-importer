@@ -1,0 +1,20 @@
+{
+  "name": "com.peartreegames.voxpointcloudtextureimporter",
+  "version": "0.1.0",
+  "displayName": "Vox Point Cloud Texture Importer",
+  "description": "MagicaVoxel Vox file conversion to Texture2D for use in VFX Graph",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/peartreegames/vox-point-cloud-texture-importer",
+  "changelogUrl": "https://github.com/peartreegames/vox-point-cloud-texture-importer/changelog.html",
+  "licensesUrl": "https://github.com/peartreegames/vox-point-cloud-texture-importer/licensing.html",
+  "dependencies": {},
+  "keywords": [
+    "peartree"
+  ],
+  "author": {
+    "name": "Peartree Games",
+    "email": "bgk@peartree.games",
+    "url": "https://peartree.games"
+  }
+}
